@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&family=Kanit&family=Noto+Sans:wght@300;400&family=Ubuntu:wght@300&display=swap');
+
+*{
+  box-sizing: border-box;
+}
+htm{
+  font-family: 'Noto Sans', sans-serif;
+}
+
+body{
+  margin: 0px;
+  background-color: aquamarine;
+}
+
