@@ -32,7 +32,7 @@ export const App = () => {
   };
   return (
     <div>
-      <h1>Welcome to my first react project !</h1>
+      <center><h1>Welcome to my first react project !</h1></center>
       <NewExpense addNewExpenseInApp={expenseDataHendelar}/>
       <Expenses item={expenses} />
 
